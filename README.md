@@ -26,8 +26,8 @@ var form = new EasyForms({
 			}]
 		}, {
 			"Elem.form\\-group": {
-				"Elem@sm>4:8: {
-					"Button.submit!": "Login <span class="glyphicon glyphicon-chevron-right"></span>"
+				"Elem@sm>4:8": {
+					"Button.submit!": "Login <span class=\"glyphicon glyphicon-chevron-right\"></span>"
 				}
 			}
 		}
